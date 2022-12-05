@@ -5,7 +5,7 @@ interface ICard {
 }
 
 const Card = styled.div<ICard>`
-  background-color: #fff;
+  background-color: white;
   padding: 1rem;
 
   ${({ bg }) =>
