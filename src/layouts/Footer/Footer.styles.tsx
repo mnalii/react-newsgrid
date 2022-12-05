@@ -12,6 +12,7 @@ export const MainFooter = styled.footer`
 
   a {
     color: #fff;
+    /* backgorund-color: white */
   }
 `;
 
